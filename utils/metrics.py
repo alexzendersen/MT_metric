@@ -99,7 +99,7 @@ class BertScore_Metric(Metric):
     return results["f1"][0]
 
 class CometMetric(object):
-    def __init__(self, huggingface_token, model_name="Unbabel/XCOMET-XXL", gpus=1 if torch.cuda.is_available() else 0):
+    def __init__(self, huggingface_token, model_name="Unbabel/wmt20-comet-qe-da", gpus=1 if torch.cuda.is_available() else 0):
         # Login to huggingface
         login(huggingface_token)
 

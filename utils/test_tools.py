@@ -36,7 +36,7 @@ def generate_ngrams(words_list, n):
             ngrams_list.extend([' '.join(gram) for gram in list(ngrams(word.split(), i))])
     return ngrams_list
 
-def process_texts(reference: str, translation: str, keywords: list, lang='georgian') -> float:
+def process_texts(reference: str, translation: str, keywords: list, lang='english') -> float:
     foreign_keywords = [translate2lang(keyword, lang=lang) for keyword in keywords]
     
     reference_keywords = set(re.findall(r'\b(' + '|'.join(foreign_keywords) + r')\b', reference.lower()))
