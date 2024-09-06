@@ -1,0 +1,627 @@
+tags,texts
+microsoft educational materials development flexible methodologies xna xna game studio aspnet parallel programming multicore teamwork visual studio visual studio,"The course library has been replenished with new courses and books:
+
+Software Systems Development Technology
+Basics of Computer Game Development in XNA Game Studio
+Web Application Development in ASP.NET
+Parallel Programming for Multi-core Processors
+Team Development Using Visual Studio Team Foundation Server
+Introduction to Microsoft Visual Studio Team System 2008
+Agile Software Development Methodology
+
+Descriptions and links below.
+
+Software Systems Development Technology, A.V. Gavrilov
+
+The course provides basic knowledge on the technology of software systems development. It examines Microsoft Solution Framework (MSF) models and disciplines in detail. The main focus is on utilizing the acquired theoretical knowledge in implementing a specific software project. The example of Visual Studio Team System (VSTS) demonstrates the use of a team development toolset. The acquired skills allow for the design, analysis, and implementation of application software based on modern industrial development methods.
+
+ Course Program (245 KB) Course Structure (3.9 MB)
+ Lecture 1 (6.1 MB) Lecture 2 (6.1 MB) Lecture 3 (4.2 MB) Lecture 4 (3.7 MB)
+ Lecture 5 (2.6 MB) Lecture 6 (3.6 MB) Lecture 7 (1.7 MB) Lecture 8 (4.4 MB)
+ Lecture 9 (2.7 MB) Lecture 10 (1.6 MB)
+
+ 
+
+Basics of Computer Game Development in XNA Game Studio, Yu.V. Dashko, A.A. Zaika, IUBIP
+
+The course covers the basic methods of computer game development in XNA Game Studio 2.0, documentation development, and implementation of independent game projects. It is intended for C# programmers (students of the ""Applied Informatics"" specialty). The course is implemented as part of the regional component of the curriculum for the specified specialty.
+
+ Readme (578 bytes) Course Description (200 KB) Lectures (831 KB)
+ Seminars (10 KB)
+ Labs — Part 1 (3.5 MB) Labs — Part 2 (7.7 MB)
+ Labs — Part 3 (5.5 MB) Labs — Part 4 (5.1 MB)
+
+ 
+
+Web Application Development in ASP.NET, G. Magdanurov, Microsoft
+
+The course is designed for developers who lack experience with ASP.NET. The programming language used is C#. To study the training, it is desirable to know the basics of HTML/JavaScript, have a basic understanding of web applications, and have experience writing programs in C-like languages.
+
+ Part 1 (922 KB) Part 2 (1.2 MB)
+
+ 
+
+Parallel Programming for Multi-core Processors, Yu. Serdyuk, A. Petrov
+
+This course is focused on the study and practical application of modern high-level tools for parallel programming on multi-core processors, such as the Microsoft Parallel FX library and the MC# programming language. The use of such tools significantly increases programmer productivity from an industrial perspective, and from an educational perspective, enables university students to successfully study and master them starting from their second year.
+
+ Lectures (835 KB) Seminars (507 KB)
+
+ 
+
+Team Development Using Visual Studio Team Foundation Server, J.D. Meyer, Jason Taylor, Alex Macman, Prashant Bansod, Kevin Jones
+
+The guide is dedicated to deploying Team Foundation Server and its effective use for source code management, build automation, and work item and process management. The goal of this guide is to provide resources, recommendations, and advice on creating an effective environment for team software development to all those involved in this activity.
+
+ Book (4.1 MB)
+
+Introduction to Microsoft Visual Studio Team System 2008, A. Fedorov
+
+Visual Studio Team System 2008 continues the development of the product family for managing the entire application lifecycle and includes new and improved tools, processes, and guidance that help improve collaborative team work and make it more effective. The tools included with Visual Studio Team System 2008 enable better communication between team members and customers, foster effective collaboration, ensure the expected code quality using advanced quality control tools, and provide insight into project activities and priorities, allowing data-driven decision-making in real-time.
+
+ Book (618 KB)
+
+Agile Software Development Methodology, Microsoft
+
+This guide is dedicated to the Microsoft Solutions Framework for Agile Software Development methodology by the Microsoft Corporation. This methodology describes the approach and organization of work in software product creation and, unlike the more extensive and abstract Microsoft Solutions Framework system, it is ready for immediate application. The guide is intended for project managers, developers, analysts, testers, architects, and possibly other members of the development team.
+
+ Book (1.9 MB)"
+HTC HTC Bravo HTC Legend HTC Salsa HTC Tide HTC Buzz HTC Photon HTC Trophy HTC Tera Android Windows Mobile,"Recently, at a presentation organized by HTC for T-Mobile representatives, there was a leak of information about HTC's plans for the next year.
+
+So, the entire HTC product lineup will be divided into several categories:
+
+Design / Lifestyle — smartphones targeting the youth market: HTC Legend, HTC Salsa.
+Social — youth smartphones aimed at tight integration with social networks (Twitter, Facebook, Flickr): HTC Tide, HTC Buzz.
+Performance — smartphones with thousands of horsepower under the hood: HTC Bravo.
+Productivity — Windows Mobile smartphones aimed at the business segment: HTC Photon, HTC Trophy, HTC Tera (remake of the Touch Pro2).
+
+According to Eldar Murtazin, this roadmap lacks a couple of key HTC devices, such as the HTC Espresso or the 10-inch HTC Halo Tablet running Android.
+
+Let's move on to the description of the most anticipated smartphone on Habrahabr.
+
+HTC Bravo — the company's first Android smartphone, which is based on a gigahertz Qualcomm Snapdragon QSD8250 processor, capable of recording HD video in 720p format, has 512 MB ROM and 256 MB RAM (according to rumors, the RAM size will be increased to 512 MB). It also comes with a 16 GB MicroSD memory card and a 1400 mAh battery. The display is an AMOLED 3.7"" capacitive touchscreen. The wait is almost over, the launch date is April 2010! A great contender for the XPeria X10.
+
+HTC Legend — another Android device, boasting a metal frame and a thickness of just 11.4 mm. Its features are more modest compared to the Bravo: a 600 MHz Qualcomm MSM7227 processor, 3.2"" capacitive display, 512 MB ROM, 256 MB RAM. Judging by its shape, in March we can expect another sibling to the HTC Hero!
+
+HTC Salsa — a gift for fans of Blackberry phones and Android simultaneously. Salsa is a curious-looking monoblock with a qwerty keyboard and a very tiny (by modern standards) 2.6"" resistive display. The heart of the smartphone is a 528 MHz Qualcomm MSM7225 processor. It also has the standard 512 MB RAM and 256 MB ROM. Release date — June 2010.
+
+HTC Tide — not a branded laundry detergent for HTC, but a new Android smartphone designed for fans of social networks like Twitter, Facebook, Plurk, Flickr, etc. The phone's specs are similar to the HTC Salsa: 528 MHz Qualcomm MSM7225, 512 MB RAM, and 256 MB ROM. Display — 2.68"" QVGA with a resistive touchscreen. Release date — April 2010.
+
+HTC Buzz — a new incarnation of the HTC Tattoo, but this time much prettier, very thin (11 mm), and also with a 3.2"" capacitive touchscreen display. Other specs: 528 MHz Qualcomm MSM7225, 512 MB RAM, and 256 MB ROM. Fans of showcasing their individuality through accessories will get a new toy in May 2010.
+
+HTC Photon — a logical continuation of the HTC Diamond series, HTC Touch Diamond 2, but this time significantly improved, namely: a design similar to the HTC HD2 stands out. The device will also feature a 3.2"" capacitive HVGA display, 600 MHz Qualcomm MSM7227 processor, 512 MB RAM, 256 MB ROM, and it has an impressive thickness of just 10.9 mm. The wait is almost over — April 2010!
+
+HTC Trophy — another attempt at the Blackberry market, but this time the smartphone will be running Windows Mobile 6.5. Also worth noting is the pleasant HTC HD2-style design, 3"" capacitive VGA display. Other specs are standard: 600 MHz Qualcomm MSM7227, 512 MB RAM, 256 MB ROM. It's worth noting that all HTC phones have slimmed down significantly: the HTC Trophy thickness is 11 mm. Premiere — May 2010.
+
+HTC Tera — no more than a remake of the HTC Touch Pro 2, but this time smaller, thinner, and more stylish. 600 MHz Qualcomm MSM7227, 512 MB RAM, 256 MB ROM, also includes a 3.2"" WQVGA resistive display, a full qwerty keyboard, but most importantly — a thickness of 15 mm! Release date — April 2010.
+
+It should be added that the HTC HD2 will be the flagship in the HTC product lineup throughout 2010, which means that purchasing it now won't lead to regret in three months :) HTC is slowly phasing out Windows Mobile phones in favor of the business segment, while all main niches are occupied by Android. Geeks have started saving up for the HTC Bravo, and so have I :)
+
+HTC has done an enormous job and seems to have tried to outdo everyone: both Samsung with AMOLED displays, Blackberry with qwerty monoblocks, and Apple with gigahertz processors and support for OpenGL ES 2.0.
+
+Source: xda-developers.com
+Official information is always available via HTC Russia’s Twitter: twitter.com/HTC_Ru"
+vimpelcom,"Far February 2007.
+
+Seven long days spent on the streets of Barcelona without a single euro cent in the pocket. Life on La Rambla; African-American drug dealers; girls of frivolous behavior; locals who don't understand English; the most cultured police in the world, oranges on the trees... Hundreds of roads trodden - thousands of difficult paths revealed! But then - receiving press accreditation, entering inside, and plunging into the real turmoil of the global telecom world! All this is possible in only one place in the world: Spain, Barcelona, February, Mobile World Congress.
+
+So, right now the most interesting event of the year for the entire mobile industry begins. Almost 100 thousand people gather in one place to showcase their best developments, set trends for the year ahead, and of course, delight us with new products and announcements. Well, since they are there, and we are here, there is no reason not to follow them for real:
+
+Official event website: mobileworldcongress.com
+
+Special project from the organizers mobileworldlive.com (it's worth registering there)
+Brochure with complete information about the congress and event schedule: .PDF (6.8 Mb), no registration required
+
+Live broadcasts on Engadget: engadget.com/tag/liveblog
+Thematic publications on Gizmodo
+Special section on Mobile-review + the first 4 articles (introduction, Samsung Wave, Bada, HTC Smart)
+Broadcast on Content-review
+MWC through the eyes of gamers
+
+Twitter:
+
+twitter.com/gsmworld - official Twitter feed + hashtags: #MWC, #MWC10, #MWC2010
+twitter.com/mobileworldlive - feed of announcements from mobileworldlive.com
+twitter.com/ShowDaily - daily newspaper issued at the conference
+
+our people on the spot: alex_exler, @bazilisa, derloos, @dryab, eldarmurtazin, goncharow, iBubelo, olyapka, plushev, playd, @symsymsym, taranenko, @technoslav, turubar 
+
+Video:
+
+Live broadcasts on qik.com
+The good old YouTube
+Stream from Mobile World Live TV on TelecomTV - video from panel discussions and official events
+
+What ""hot"" things await us?
+
+Opera will hold a closed demonstration of Opera Mini on jailbreak iPhone - a browser 5 times faster than Safari
+Demonstration of Windows Mobile 7 Series (which will be friends with XBOX Live!) + release date announcement + promo site
+Samsung will show Wave (S8500) + Bada - yes, Wave, not Google Wave and Bada, not some nonsense
+MOTOROI and MOTOAURA from you-know-who
+Skype will finally integrate into Nokia N-series + joint project with Verizon
+Sony Ericsson will show the world Vivaz pro
+Premiere of the Notion Ink Adam tablet 
+SIMFi = SIM card + Wi-Fi in one package
+Announcement of a new AppStore by the 24 largest mobile operators (Vimpelcom is participating from Russia)
+Adobe promises Flash and AIR for Android + unclear activity in an alliance with Microsoft
+Presentation of OneAPI from GSMA - a lightweight universal API for creating web applications integrated into mobile operator systems (IMS^2 ???)
+Vodafone 150 - the first mobile phone for $15 for developing markets (Africa)
+Nokia and Intel merge in creative ecstasy MeeGo
+Symbian OS 3
+
+Opera is trolling Apple already at the airport level - such heroes!
+
+via plushev.com + storyline development on intomobile.com
+
+UPD: the topic is being updated, we write new relevant links and topics in the comments"
+HP; HP ProLiant ProLiant G ML DL BL SL HP ProLiant SL hyperscalability high-load systems front web server Intel Xeon AMD Opteron Series,"In 1993, HP ProLiant servers, developed based on the x86 architecture, appeared on the market for the first time. The ProLiant family was supplemented with new lines as the application area of such devices grew. Until recently, you could choose from the ML series – tower servers typically bought individually; the DL series – rack-mounted machines for serious tasks, several of which are purchased with significant future-proofing in mind; and the BL series – filling the rack with a dozen of these blades, allowing you to add more as your needs grow.
+
+However, in recent years, BL and their analogs have been used in situations where demands grow tens to hundreds of times – in web search engines, large databases, and scientific supercomputers. Although these servers' designs use various technologies to reduce power consumption and compact the internal components, operating complexes with several thousand computing nodes means even a small power saving and reduction in size per server would yield significant economic effects.
+
+Thus, HP specifically developed the HP ProLiant SL6000 line, where a new form factor is used instead of the standard rack-mount case. Our new system uses a 2U chassis, the z6000, where several servers share common power supplies and fans. Compared to regular 1U servers, power consumption is reduced by 28%, and the overall weight of the server rack by 31%. This solution is also used in the BladeSystem chassis for the BL line, but the z6000 does not have a common backplane, which improves air cooling inside the chassis.
+
+As with other 6th generation HP ProLiant systems, depending on the configuration in the z6000, you can use three power supply models: 460, 750, and 1200 watts. To simplify the deployment of large configurations, five SL6000s can be installed in one 10U bulk rail kit block.
+
+Three types of 1U dual-processor ProLiant SL modules based on Xeon 5500 are installed in the z6000:
+
+The HP ProLiant SL170z is designed for data storage applications, such as search engines and databases. It accommodates 6 full-sized SAS/SATA disks and 16 DDR3 DIMM memory modules.
+The HP ProLiant SL2x170z is intended for supercomputing calculations and front-end web applications. It occupies half the width of a 19-inch rack, so four SL2x170z modules can be installed in the 2U z6000 chassis, doubling the processor power density compared to regular 1U servers. This model also supports 16 DDR3 DIMM memory modules but can only house a single 3.5-inch hard drive.
+The HP ProLiant SL160z, designed for applications with intensive memory use (like web page caching), is equipped with 18 memory module slots and two PCI slots. It can accommodate two 3.5-inch disks.
+
+Additionally, HP ProLiant SL165z modules based on AMD Opteron 2400 Series will soon be available.
+
+All four models are equipped with a dual-port Gigabit Ethernet adapter and support DCMI and IPMI management with the possibility of shutting down individual server modules in the chassis.
+
+Let's sincerely wish everyone that your tasks grow to such a scale that expanding your server fleet will mean purchasing several more HP ProLiant SL6000 racks! :)"
+cyborg Steve Mann glogging glog cyborglogging big brother wearable computer eyetap webcam photolog videolog cyborg problems cyberlaw cyberpunk virtual light William Gibson,"It seems there's a clear interest in Gibson and cyberpunk on Habrahabr: one minute they're writing about the ""Neuromancer"" adaptation, the next about a guy from Obscura Digital waving his hands in the air exactly like Keanu Reeves in ""Johnny Mnemonic.""
+
+And suddenly the Habrahabr crowd might start worrying about why designer Mac Funamizu depicted Gibson's ""Virtual Light"" as a transparent frame, not glasses. And for no good reason! Glasses that process the surrounding world's image have long been realized and are now being perfected by cyborg enthusiast Steve Mann:
+
+Steve has been promoting the ideology of the ""wearable"" computer for several decades, first at MIT, then at his native University of Toronto.
+
+Main areas Steve worked on:
+Development of EyeTap technology. These are glasses that intercept the incoming image to the eye and, after passing it through a computer, pass it further into the eye. One of the models ready for mass production:
+
+Image processing technologies. For example, Steve holds a patent for a technology to stitch several video frames into a whole picture:
+
+CyborGLOGGING, reverse surveillance. Steve, as a self-respecting cyborg, develops and implements cyborg ideology. Cyborglogging, or simply glogging, is the continuous posting of videos and photos taken by ""wearable"" cameras. Steve even created a service for gloggers, where he also runs his own glog. Reverse surveillance is when an ordinary citizen's wearable device, typically ""wearable,"" records instead of Big Brother's all-seeing eye:
+      
+Naturally, such surveillance is not initiated by government services for covert control over citizens, but rather by movement activists for public use in diaries; all recorded information is maximally open. This is how Mann sees ideal surveillance: since the information is not secret, there can be no underhanded games or corruption; if someone's rights are violated, everyone sees it. If the recording invades someone's private life, no problem, as everything is maximally open, the information can immediately be deleted.
+
+Cyborg Problems
+Now the most interesting part: Steve Mann is a fervent ideologist and activist of his inventions and concepts. For the past three decades, he has been wearing a heap of metal on himself. This collage has circulated almost all internet editions; as you can see, until the mid-90s Steve had a hard time (in the literal sense):
+
+Another very interesting fact from Steve's life: on February 18, 2002, Steve was detained by the security service at St. John's Airport, Canada. Until then, Steve had flown around the world unobstructed, with security services satisfied with his equipment documentation package (which included a note from his personal doctor stating that Steve was conducting an experiment and should not be without special equipment). ""The New York Times"" writes: during a personal inspection, the officers scattered the devices all over the floor (later forgetting to return part of the equipment worth almost $57,000 to the inventor), tore off the electrodes from Steve, causing bleeding. After the electronics were disabled, Steve lost spatial orientation (falling several times and once hitting his head on a hanging fire extinguisher), and he was wheeled to the gate in a wheelchair.
+
+On Slashdot, I found an interesting discussion of the incident. Several of Steve's former and current students commented. They claimed that the journalists greatly exaggerated everything; students personally saw Steve sometimes remove his glasses and move around normally, that the inventor's equipment contains no biometric sensors or implants. One of Steve's MIT students suggested that looking at a two-dimensional image of the world (through the glasses' screens) for too long would inevitably cause disorientation. Someone suggested that Steve was simply very upset by what happened. In any case, everyone recognized that it was a very telling case of ""what happens if you deprive a person of gadgets that help them live.""
+
+Several Photos
+Here are some illustrations allowing you to immerse yourself in what Steve does. Here's a group photo of cyborg students from MIT, participating in Steve's early project on scanning the institute's surroundings:
+
+Concept-fantasy ""PleaseWait: I'm not talking to strangers."" ""Insert passport into the reader on my head, and only then will I see and hear you. If you want to show me an advertisement, pay for my attention. Press '3' and insert a credit card"":
+
+Wearable camera in a backpack:
+
+Wearable camera on bra straps:
+
+One application of EyeTap technology, the ""Adissolve"" project (literally ""ad dissolve""), where the system recognizes an advertisement in a magazine and replaces it with a photo uploaded from an art gallery:
+
+The inventor's daughter, Christina Mann, captured with EyeTap glasses a few minutes after birth:
+
+New Hobby
+Currently, Steve is fascinated by musical hydro-instruments but still never parts with his glasses:
+
+Links
+I recommend continuing to explore the topic through the following links:
+the ""Eyetap"" lab site, 
+Steve Mann's site,
+the ""info gargoyle"" blog dedicated to cyborgs and wearable computers,
+the publication ""Continuous Lifelong Capture of Personal Experience with EyeTap,""
+the publication ""Equiveillance: The equilibrium between Surveillance and Sousveillance."""
+ACDC Alice Cooper Def Leppard Elvis Presley Iron Maiden Queen Scorpions Survivor The Offspring Velvet Revolver ZZ Top rock last.fm google friends,"Hello and stay healthy, dear Habr members! =)) The weather in Moscow is awful right now: it's cold, 13 degrees Celsius on the thermometer, feels like around 7-8, no sun, the wind is from the north, at least it's not raining. And in this weather, Uncle Sokki gathered his courage and finally executed his cunning plan. :) Actually, there was no space left on the sheet)) You’ll understand what sheet later.
+
+About a month ago, I was searching for some radio station that played only the music which resonates the most with my soul and heart. And I stumbled upon The Rock Radio, where high-quality music streaming costs a bit of money (Backstage Pass for only $4.99/month), and low-quality is free. Without much thought, I put the audio stream into my favorite Rhythmbox in the radio stations section, and since then, I don’t remember turning off the speakers without hearing the sounds of songs from Metallica, AC/DC, ZZ Top, Iron Maiden, Alice Cooper, Queen, Aerosmith, Kiss, and others.
+
+But this article is not about how cool all that is (although it is really cool!), but about my first rock compilation. Having heard a song that penetrated me from head to toe, I turned to my sheet and wrote down the band and song.
+
+Fig.1. The best of the best =))
+The next step was easy: find all this variety. I found everything except Jingle “Money”. Then I turned to the Twitter users and my friends. I want to express enormous thanks to the following people who spent their time helping me in the search:
+vfaronov,
+Vasyok Kuzminov,
+Sanyok Timokhin,
+Damirock,
+Sanyok Artamonov,
+andrejs.
+
+Fig.2. Brainstorming
+Our glorious seven searched everywhere: Googling in Yandex =)), on Last.fm, in torrents, on free mp3 sites, on The Rock Radio website… I was even ready, and still am, to pay a small fee of $1 (!!!) for that song)) But then we agreed that the band was not popular not only in Russia, not only in Europe, but even in America. So, it's a lost cause.
+Well, here is, actually, the Rock #1 album:
+
+Fig.3. Bloody guitar (just fits the theme) =))
+01 ACDC — The Razors Edge
+02 Alice Cooper — Billion Dollar Babies
+03 Def Leppard — C'mon C'mon
+04 Elvis Presley — Jailhouse Rock
+05 Iron Maiden — Fear Of The Dark
+06 Queen — Bohemian Rhapsody
+07 Queen — Death on Two Legs Dedicated to…
+08 Scorpions — Still Loving You
+09 Survivor — Eye of the Tiger Rocky Balboa
+10 The Offspring — I Wanna Be Sedated
+11 Velvet Revolver — Dirty Little Thing
+12 ZZ Top — La Grange
+
+My blog"
+telephone old hardware cellular communication mobile operators mobile phone analogy history nokia nokia russia turbulent nineties post-apocalypse museum museum IT museum of computer history,"Indestructible ""nuclear briefcase.""
+A legend of the ""turbulent nineties.""
+Almost the very same ""briefcase with a tube,"" more authentic only by trunking communication devices and ""RusAltay"" units.
+Previously installed in the car of some bigwig, thanks to his careful handling, the device is in very good condition. It is hard to find a better prop for films about nuclear missiles, spies, and satellite communication with the president.
+
+Under the cut, there are several photos and a story about this phone.
+
+An analog mobile phone, more precisely a ""portable subscriber radio station of the NMT-450 standard."" It was used in the network of the operator MCC (""Moscow Cellular Communications""), which was widely known in the advertising of the ""Federal SOTEL network.""
+There are no SIM cards; the number is hard-programmed in the network. SMS is not supported. At all. Voicemail provided by the operator worked ""wonderfully."" The ""phone book"" is memory for several speed-dialing numbers without search and familiar navigation.
+
+Excellent reception quality was ensured by a 7W transmitter (compare with the power of GSM devices, which rarely reach one watt). Confident operation at maximum distance from the base station and unsurpassed battery life from the onboard batteries — a 1700mAh NiMH battery weighing more than 500 grams lasted up to 7 days. This device was designed to provide communication in any circumstances, and it always succeeded.
+
+Charging is connected directly to the battery, but it can also be connected to the phone — it has an external power input for connecting to a car's onboard network or another power source.
+
+A wired telephone line adapter allowed this device to emulate a PBX and make calls through it either with a modem, a fax, or a regular landline phone. A remote wooded area, a stump with a regular telephone handset on it, the wire from which goes to the line jack on a hidden Nokia 720. Pick up the handset. After a second, you hear the familiar dial tone. You can dial the number.
+
+It is said that there are no functioning networks of this standard left now — the analog NMT-450 protocol quietly died even in the regions of Russia. There is no longer that range, that autonomy, or that power. You can no longer find that mystery, intrigue, and prestige that this device gave its owner. The quality was legendary. Truly Made In Finland.
+
+The past is irrevocably gone, but this device will live. It has seen much. It is one of those devices with which mobile communication began as a phenomenon. One of the best devices. It is not its fault that the standard is no longer supported, and all its successors did not inherit its best qualities. They will still remain valuable.
+
+UPD.
+Can anyone tell if NMT-450 networks remain in some region?
+Asked this question on netmonitor, seems like the guys were going somewhere allegedly to catch a signal, but no report of that trip has been seen.
+
+UPD2.
+Loaded weight with the battery — 1500 grams. The bottom of the device is a ribbed metal radiator.
+
+Year of release — 1996."
+ie microsoft browser web development web design firefox internet explorer opera safari javascript java script html layout css css compatibility ajax facebook mobile me apple,"IE6 (Microsoft Internet Explorer 6) was released in 2001. If you look at the date of this post, today is 2008. Various statistics show that about 20% of internet users today continue to use IE6. It is also worth noting that the share of IE6 has been rapidly decreasing since the beginning of 2008.
+
+IE6 does not support standards, does not provide proper security, and contains a huge number of errors. Ensuring website compatibility with IE6 requires separate and labor-intensive work to track the errors of IE6 itself. Moreover, since 2001, the Internet has not stood still but has rapidly evolved towards so-called Web 2.0, and using all the latest technologies is not possible in IE6. For example, using complex JavaScript scripts.
+
+Many Internet services have officially discontinued support for IE6, including Facebook and Apple's MobileMe.
+
+Thus, today we have a problem: on the one hand, 20% of Internet users use IE6, and on the other, not all sites can be made compatible with IE6 due to the obsolescence of the browser itself.
+
+Why don't users update the long-outdated browser? If you read the forums, you can note one trend. IE6 is a corporate standard for some companies, and corporate software has been created for it, which is only compatible with it. This is the reason why corporate computers are not updated to a new version of IE, and the installation of third-party browsers such as Firefox, Opera, or Safari is prohibited by security policy.
+
+(If we do not talk only about corporate computers, it is worth noting that Windows Update is enabled by default in Windows XP, and the IE6 browser is automatically updated to IE 7 without problems.)
+
+Thus, we have found out that IE6 is currently a unique browser that requires special code to make a website compatible with it.
+
+I believe that for this reason, developing a site compatible with IE6 may be a separate item in the technical assignment for the site's development. If the task is to create a modern site compatible with IE6, this is a task for developing two sites. The first is compatible with all the latest browsers, and the second may have somewhat reduced features but is compatible with the outdated IE6.
+
+One of the solutions to the problem of using IE6 could be determining the browser version and displaying a warning message that ""the site may not work or look as expected because you are using an outdated browser version,"" and suggesting updating the favorite browser to the latest version. This approach has been taken by the previously mentioned online services.
+
+UPD: Microsoft has created a site with statistics on IE6 usage."
+social networks Odnoklassniki.ru Odnoklassniki.km.ru HowGreatThatWeAreAllHereTogetherToday.ru domain names many letters Guinness World Records longest tags on Habr The length of one tag cannot exceed symbols,"The social network of the company ""KM Online"" has found its next incarnation. The very network that for a long time felt quite good under the name Classmates.km.ru (completely copying the name of the progenitor site Classmates.com), and then briefly and ingloriously lived under the nickname Odnoklassniki.km.ru (losing an intellectual property court dispute to Odnoklassniki.ru), has now received a name that may be recognized as the longest domain name in the Runet — HowWonderfulThatWeAreAllHereTogetherToday.ru. KM Online wants to include this achievement in the Guinness Book of Records.
+
+The creativity of the creators of HWTAWAAHT.ru is bewildering in its scale and truly makes one think. Just consider these words from the press release: ""The name of the network is a line from a song by Oleg Mityaev. Initially, it was planned to quote the full verse of the song in the address bar. But, so as not to overly tire the user, the site's creators settled on the most popular words."" Damn, people with such energy could indeed have been able to bypass the technical limitation on domain name length of 63 ASCII characters!
+
+It should be noted that the network already has about 3.2 million users who have endured (or are enduring) the turbulent times of active promotion on the Runet. Which overall is not bad, considering that they themselves are unlikely to confidently remember what their refuge is called now.
+
+And finally. ""Unlike its competitors, the social network HowWonderfulThatWeAreAllHereTogetherToday.ru will provide only free services. Convenient friend search by interests, place of study, work, personalized informers, convenient blog service, 'invisible' status, and much more. Most of these services are absent in competitive social networks."" Competitors in the same text are directly named as ""Vkontakte"" and ""Odnoklassniki.ru"". It only remains to throw up your hands."
+iPhone iPhone G The Korea Times KT LentaRu mobile WiMAX WiMAX Yota Yota Yota Scartel Scartel G video chat OLED OLED display Cortex Cortex-A ARM processors RFID,"The Korea Times reported yesterday that the Korean mobile operator KT plans to start sales in April of a new generation of iPhones, which this time will feature dual-core processors, powerful graphics coprocessors (for processing video and photos), organic light-emitting diode (OLED) screens, and support for live video chats.
+
+The AppleInsider website published another leak from internal sources at Apple: the new devices will be equipped with ARM processors of the Cortex-A9 design, capable of exceeding the two-gigahertz frequency limit. It is also expected that RFID technology, providing contactless authentication, will be implemented.
+
+These news have been retold on the Lenta.Ru website. And in the LJ community yota_ru, they are currently discussing whether mobile WiMAX (in particular, Yota) will be among the 4G technologies supported by the new iPhone. An image attracting attention is also provided there:
+
+Most interesting is the list of new features on the right. In particular, the version of the operating system indicated in the illustration raises considerable doubts about the correspondence of this concept to objective reality.
+
+Judging by its address, this image is from the December part of that Brazilian blog, but not knowing Brazilian, I can't find the corresponding blog post there.
+
+The next date to check the Korean and Brazilian news is January 27; it is then (if you believe AppleInsider) that Apple plans to present the new iPhone 4.0 SDK to the public. Some developers reportedly received advice from Apple back in December last year to prepare their applications for launch on a screen that will exceed the 320×480 size."
+open letter open letter to the President President of Russia Medvedev State Standard Rostechregulation GOST regulations Civil Code Civil Code of the Russian Federation Civil Code State Duma Council of the State Duma civil society civic consciousness,"There is a blog on LiveJournal called bablaw, whose author also goes by the pseudonym Hacker in Law. He is one of the most quoted LiveJournal bloggers on Habrahabr; in fact, I myself referred to him just yesterday.
+
+And just yesterday, this blogger posted an open letter addressed to President Medvedev. I must note that, like any such letter written from one lawyer to another, it is full of legal terminology; perhaps for Habrahabr readers, the summary of the matter, compiled by Nesterovich, will prove much clearer.
+
+So what do we see in essence? — We see an attempt by Rostekhregulirovanie (formerly GOSSTANDART) to transfer state technical regulations from public domain to the intellectual property domain of certain organizations (perhaps even foreign ones). It's not just that taxpayers' money, which funded the creators of GOSTs and for which public ownership is given a capital return, is being nullified; moreover, now ordinary people are beginning to face new dangers, such as living in homes and flying in airplanes built according to outdated ""pirated"" copies of standards and regulations, or even outright neglecting them.
+
+This attempt is not new; however, last time (as Nesterovich points out) state standardizers lost the case when representatives of a St. Petersburg non-profit organization (Institute for the Development of Freedom of Information) filed a lawsuit against them. Nevertheless, the court ruling on the free publication of GOSTs on the Internet was not executed, and the director of IRFS was even attacked by unknown persons at his own entrance, resulting in head injuries. Now a new attempt is being made to privatize standards, carried out under the aegis of President Medvedev himself.
+
+The fourth part of the Civil Code has been justly and extensively criticized, but it did contain Article 1259, which specified that official documents of state authorities, official documents of international organizations, as well as their official translations, are not subject to copyright (and, consequently, cannot be the subject of licensing agreements with foreign rights holders, as the new bill would have them). And now, not only will some parts of the legislation be available to citizens only for money as a result; it seems that the path for increasing this part will be opened. After all, handing over the text of the laws to the greedy hands of rights traders (especially international ones) should be as prohibited as the privatization of the Ministry of Finance or the anti-drug service, for example.
+
+Events are unfolding very quickly: the bill on the privatization of GOSTs has already passed the first reading in the State Duma, and yesterday evening (in an emergency mode, after the end of the working day) it was recommended by the State Duma Committee on Economic Policy and Entrepreneurship for submission to the State Duma Council. Today, the Duma Council will decide to recommend this bill for adoption, and tomorrow (December 23) it will vote on it in the second and third readings at once by a majority vote. This once again proves how actively, obediently, and promptly the Duma serves as the legislative stamp of the President's will.
+
+Thus, the open letter urges Medvedev to reconsider his decision and rein in the rights traders. Concerned citizens have already placed mention of the open letter on Medvedev's blog; I believe it would be interesting to bring this story to the front page of Habrahabr as well.
+
+Here is the vocal fight for one's rights; here is truly civil society."
+google google russia google developer day developer day gwt google api google app engine google wave google chrome android google android google maps api ajax api,"Alexey Shelestenko, Marketing Google Russia
+
+We are pleased to inform you that we are starting to accept applications for participation in the annual conference for web developers ""Google Developer Day,"" which will take place on November 10 in Moscow. Last year, more than 400 web developers attended the conference, where they listened to 12 presentations and participated in 6 practical workshops dedicated to various Google products for web developers. This year, we plan to cover Android, App Engine, Google Wave, Chrome, GWT, AJAX API, and much more in detail.
+
+Our engineering teams working on services and API for web developers will attend the conference, and you will have the opportunity to communicate with them directly. We will hold several in-depth sessions with a technical focus aimed at helping developers write good working applications using Google technologies and open technologies. Those working on business applications will also find something useful in the enhanced and expanded program of our conference. And, of course, developers will have many opportunities to meet each other and discuss the latest mobile and web technologies during the ""open house hours"" and informal networking after the conference.
+
+We are making every effort to ensure that the conference is rich, useful, and interesting! To learn more about the conference and submit an application for participation, visit the conference website.
+
+We look forward to seeing you at Google Developer Day!"
+stock photo collection apple bbk dell sony panasonic siemens toshiba fujitsu lenovo toyota lexus scion nokia sony ericsson blackberry sun microsoft GM opel chevrolet hummer saab cadillac canon nikon,"Many well-known (and not so well-known) companies provide open access on their websites not only to press releases but also to high-resolution image galleries of their products, printed materials, advertising posters, and other graphical delights. I have accumulated several links to such repositories and decided to make this collection, as someone might find it useful; perhaps someone might even share additional links since I have links to galleries of only a few, umm... IT companies.
+
+The link to the Samsung photobank was the first I got, so I'll start with it. The company's representatives sent it to me when I was developing a small brochure for them.
+
+The Samsung photobank contains a collection of high-quality images of Samsung Electronics products, corporate style elements, and photos taken in the Samsung gallery (something like an exhibition center).
+
+Photos and press releases of Apple products.
+Before you download an image, you will be asked to read the Image Use Agreement: According to the terms of the Agreement, you can use the image only for editorial purposes by analysts in journalism and/or the industry. This right of use belongs personally to you and cannot be transferred to another party. The image cannot be used for advertising or selling any products or technologies (including advertising images, brochures, book covers, product photos, T-shirts, and other promotional products). You may not alter or modify the image, in whole or in part, for any purpose. + Something in Russian
+
+Photobank and promotional materials from BBK
+
+All together for Sony products
++ Sony Ericsson
+
+Photobank, advertising, news, press releases Panasonic.
+It doesn't always work, sometimes it works but doesn't give out pictures, and the content changes frequently. There used to be a large photobank on the Ukrainian site, but now there's a ""404"", and the domain redirects to panasonic.ru
+There is also http://panasonic.multiad.com/, but registration is required.
+
+Photomaterials related to the Gigaset division of Siemens and press photomaterials from Siemens.
+In general, Siemens has many divisions and various corporate websites of these divisions, and on each (or almost each) of them, there is something. In short, there is a starting point for searches if needed :)
+
+Big jpegs from Toshiba
+
+DELL product image bank
+
+Fujitsu
+
+Lenovo computers.
+There is also a Russian site with photos of Lenovo products, but at the time of writing, it was unavailable.
+
+That's all for now. If anyone has anything else to share in the same vein, post the link in the comments, and I'll update the post as they come in. The theme, I think, does not necessarily have to be in the IT sphere; the main thing is that it is an official company photobank.
+
+Updates:
+
+A friend on gTalk gave a link to the Toyota USA Newsroom – a lot of photos, videos, and other materials for the press on Toyota, Lexus, and Scion
+
+(#): wazd → Nokia Media Resources
+
+(#): avr → An amazing photobank of Volvo Trucks for its volume and quality
+
+(#): marselkhaidarov → BlackBerry
+
+(#): pepelac → Excellent gallery of products, events, and people from Sun
+
+(#): auren → Microsoft PressPass including the Resources → Image Gallery section
+
+(#): kela → A gorgeous selection of links to General Motors GM Media Online divisions:
+GM Media Online Opel International
+GM Media Online Chevrolet Europe
+GM Media Online Saab International
+GM Media Online Hummer US
+GM Media Online Cadillac Europe
+
+At mix2000's request, I found repositories of press materials for Nikon and Canon:
++ ""Useful Information"" section on the Russian site
++ Canon U.S.A promotional materials
++ Imagelibrary http://www.canon.co.uk/
+
+Last update:
+From a post in the sandbox:
+Philips product gallery
+Press materials from Adobe
+AMD press site
+Intel
+Logitech
+D-Link (click on United States on the region selection page)
+Epson
+Casio Exilim
+
+Sent to my email:
+http://imagebank.scania.com/
+Scania – manufacturer of passenger buses, tractors, and other heavy vehicle machinery.
+The bank has a cataloger, and with its help, you can find anything from beautiful photos of buses/tractors on the roads to images of engines and documentary B&W photos from the company's foundation times."
+The Capture API WC photography video recording audio recording Google Nokia website security privacy external intelligence Facebook Street View StreetView digital crowd surveillance location history facial recognition distributed network vision Maneki-neko,"A draft of ""The Capture API"" lies on the W3C website—it describes a JavaScript interface through which a website can access a visitor's computer's camera and microphone, conduct photo and video shooting, and audio recording. This draft summarizes ideas from similar proprietary APIs (from Google and Nokia, in particular).
+
+And it leads me to dark thoughts knowing that the ""Security and Privacy Considerations"" section in this document only states that the site should not have the ability to conduct photo and video shooting and audio recording without the visitor's consent (i.e., the owner of the client computer or mobile).
+
+What about the privacy of other people? Remember the July scandal involving the head of English intelligence who was exposed on Facebook by his own wife down to his underwear, although he himself had never registered on Facebook? Now, when websites are preparing to see through photo-video cameras, the whole world could be open to their view.
+
+Imagine a website, visiting which allows the visitor to continuously transmit live video frames to this site, from the camera of their mobile phone (geo-tagged via GPS, tilted by the accelerometer, oriented by the azimuth of the digital compass), and at the same time observe any point on Earth through the eyes of such digital observers. Something like Google Street View, but in real-time. By simply turning the mobile phone in different directions while standing at one point on Earth (e.g., in Ufa), you can observe through its screen (like a window) the panorama of any other point on Earth—be it New York, San Francisco, or Rio de Janeiro—provided there are enough passersby with similar mobiles looking at the world through the same site. Meanwhile, the electronic ""eye"" of your mobile phone similarly reviews and saves the panorama of the point where you stand on the site.
+
+Exciting, unprecedented impression, isn’t it?
+
+And now imagine yourself as an ordinary person in a dense digital crowd.* You are under continuous observation by dozens of electronic eyes, provided by anonymous volunteers. Any facial and identity recognition system connected to such a site will easily track or reconstruct your entire movement history through the city just as the extensive internet banner system tracks your movement through all its sites. Your jealous psycho admirer will learn what flowers you bought for your wife, and your medical insurance company will find out how often you coughed while walking in the cold.
+
+But in the real world, there is no Adblock Plus. It's not as easy to block the digital crowd as it is to block banner ads.
+
+Bruce Sterling has a story called ""Maneki-neko""; it’s roughly about the same thing. Commenters suggest that Vernor Vinge also had something similar in his works. But fiction is one thing, and an API draft is another. The API draft is preparing to become reality.
+
+___________
+
+* This blog post introduces a new term ""digital crowd"" in a narrow sense as ""a crowd of such people in the real world whose digital cameras are used in a distributed network vision system."" It may later generalize to mean ""a crowd of such people in the real world whose behavior and resources are used for the purposes and needs of a network site."""
+application support CSS default chrome documents and settings Firefox Internet internet explorer linux Mac OS mac os x mozilla firefox userContent x library Browsers LiveJournal MacOS Firefox Advertisement Honesty,"If you remove the ads by inserting code into the style of LiveJournal itself, first of all, SUP will probably soon eliminate this, and secondly, this contradicts the notorious Terms of Use.
+
+Fortunately, modern browsers provide the ability to block ads on the user’s side.
+
+Insert the following code into a text document.
+
+```css
+div.adv {display: none;}
+div.ljad {display: none;}
+div.ljadleaderboard-bottom {display: none;}
+div.ljadleaderboard {display: none;}
+div.ljadwrapper-journal-after-post-c {display: none;}
+div.ljadwrapper-app-home {display: none;}
+div.ljadmedrect {display: none;}
+```
+
+Save as `userContent.css`.
+
+For Mozilla Firefox:
+Save the file in:
+- Linux: ~/.mozilla/firefox/RANDOM_STRING.DEFAULT_PROFILE/chrome
+- XP: C:\Documents and Settings\USER_NAME\Application Data\Mozilla\Firefox\Profiles\PROFILE_NAME\chrome
+- Vista: C:\Users\USER_NAME\AppData\Roaming\Mozilla\Firefox\Profiles\PROFILE_NAME\chrome
+- Mac OS X: Library > Application Support > Firefox > Profiles > PROFILE_NAME > chrome
+(if there is no Application Data or AppData folder: Start > Control Panel > select Switch to Classic View on the left > run Folder Options > tab View > check Show hidden files and folders in the Hidden files and folders folder). Restart the browser.
+
+For Internet Explorer:
+Save the file anywhere on the disk, and specify the path in IE settings: menu Tools > menu Internet Options > tab General > button Accessibility > check the box Format documents using my style sheet > enter the path to the file in the Style sheet field.
+In the Russian version: menu Service > menu Browser Properties > tab General > button Layout > check the box to Format using the user's style > enter the path to the file in the Style list field. Restart the browser.
+
+For Opera:
+Save the file anywhere on the disk, and specify the path in Opera settings: menu Tools > menu Preferences > tab Advanced > select Content on the left > button Style Options… > tab Display > enter the path to the file in the My style sheet field > tab Presentation Modes > check the two checkboxes My style sheet.
+In the Russian version: menu Tools > menu Settings > tab Advanced > select Content on the left > button Style Options… > tab Display > enter the path to the file in the My style sheet field > tab Presentation Modes > check the two checkboxes My style sheet. Restart the browser.
+
+For Safari:
+Save the file anywhere on the disk, and specify the path in Safari settings: menu Edit > menu Preferences > tab Advanced > in the drop-down list Style Sheet select Other… > choose the file.
+In the Russian version: menu Edit > menu Settings > tab Advanced > in the drop-down list Style Sheet select Other… > choose the file. Restart the browser.
+
+The code should remove all ads, including profile and home page ads.
+
+Original article on LiveJournal by Kukalyakina
+LiveJournal user Moosatova, who is the original author of the described method."
+social networks erotic photos erotic social networks dating sites social networking dating paid messages fake profiles paid SMS paid registration free registration phishing naked breasts naked women paid incoming sex dating,"In the second half of 2009, I saw a spreading wave of murky spam in both e-mail and LiveJournal, advertising erotic social networks with the following common detestable characteristics:
+
+1) Their names were pornographic reworks of popular social networks' names — either ""Odnoklassniki"" (""Odnoobluvniki"", ""Odnovnochniki"", ""Odnotrahniki"", etc.), or ""Vkontakte"" (""V XXX-kontakte"", ""V sex-kontakte"", etc.), mimicking their interface (like phishing) and hosted on a domain matching the name.
+
+2) The homepage displayed thumbnail photos of naked women (allegedly users), sometimes with pop-up or captioned elements from profiles (as far as I could tell, names and profiles were pseudorandomly assigned to photos, and the city was based on the visitor's IP). The total number of registered users was exaggerated (if there was an option to search or separate count by cities, you could ""find"" many tens of thousands of profiles in a small city, more than there are internet users).
+
+3) They offered registration for a modest fee by sending a paid SMS. However, the rules, in small print (and in a color close to the site background), explained that the price was per day, and the payment was for a month or several months in advance, and they suggested sending several such SMS for some reason. Thus, the actual price turned out to be about a hundred times more than the deceptive one.
+
+In general, everything was clear with them.
+
+Now, however, sites appear on the horizon with which not everything is clear. They seem not to be mimicking anyone phishingly, and even do not ask for money for registration but ask for the mobile number to which they will supposedly send an access code to the site. For example, take a look at ""RusssErotika.com"" (note the triple ""s"" in the domain; I don't hyperlink it).
+
+So what's the new trick? There must be a trick because it's obvious: it’s much cheaper to send a registration code to users by e-mail than by SMS.
+
+Are they masking subscription confirmation to paid incoming SMS under the access code? Or are they collecting mobile numbers for resale to spammers? Or after free registration, is everything else incredibly expensive, like in the ""Economic"" hotel from Nosov's immortal satire tale about Dunno on the Moon?
+
+Who knows?"
+php jetbrains IDE web ide web webide editor phpdoc completion debugger xdebug editor development environment development debugging code debugging autocomplete type hinting type inference type inference phpunit unit testing testing FTP remote SASS Smarty,"In this release, you can expect:
+
+A new name. Two versions of Web IDE have received their official names: JetBrains WebStorm and JetBrains PhpStorm. Branding is not yet complete, so you will see familiar white splashes and WI icons in various places. The goal of the development remains the same — the perfect tool for PHP/JS developers and web designers.
+
+Fully customizable PHP formatter – this feature received the most votes in the tracker. Our platform supports importing, exporting, and sharing profiles — so you can easily switch between projects with different formatting styles. Additionally, code can be automatically formatted upon check-in.
+
+A PHP debugger with optimized memory usage and correct operation with symlinks (meaning fewer non-working breakpoints).
+
+A PHP editor with enhanced type inference for fields, object arrays, and logical expressions, with parameter hints and working HEREDOC editing.
+
+Remote development with automatic file synchronization — just switch to the browser window to see your changes on the server (the ""Save files on frame deactivation"" option must be enabled). Renaming and moving files and folders are fully supported.
+
+Smarty support now covers the entire 2.x syntax. Work on full support for the 3.x branch is already underway.
+
+Support for SASS Syntactically Awesome Style Sheets — a great way to create CSS.
+
+Linux users will appreciate a less aggressive splash screen, the ability to work properly with multiple projects, and support for pasting from the clipboard in all dialogs.
+
+UPD: ZenCoding support in development. Abbreviations are triggered by pressing Tab in CSS & HTML.
+
+Known issues:
+
+Formatting preview does not work
+IntelliLang plugin / Language Injection settings are missing
+Smarty compiler plugins (custom tags) are not supported
+(S)FTP sync may not work immediately after reopening the project.
+
+Official announcement and download.
+
+I look forward to your feedback and suggestions, and — as our slogan says — Happy Coding!"
+php jetbrains IDE web ide web webide editor phpdoc completion debugger xdebug editor development environment development debugging code debugging autocompletion type hinting type inference type inference phpunit unit testing testing FTP remote ZendCon language injection,"And again, the ""perfect IDE for PHP"" from JetBrains ^) During the time since the last build, we have managed to acquire an official website, attend ZendCon'09, and finally start working on the promised performance optimization. There was also time for a few new features. While the build is downloading, take a look under the cut — besides the usual details, there will be a few words about ZendCon and unique platform features.
+
+ZendCon'09
+Before the conference, there were tutorials — for me, the PHP on IBM I5 session was a revelation. IBM has teamed up with Zend to bring PHP to mainframes. Putting aside the i5 ecosystem, this could have significant consequences for everyone else, especially if IBM helps develop the language core. Some optimizations have already appeared in 5.3, but judging by other more ""mature"" technologies, the main work is still ahead.
+
+The keynote (and most of the sessions) were very lively and optimistic — PHP 5.3 was released this year, a new ZendStudio appeared (and 7.1 was released specially for the conference), the entire Zend stack and tools continue to improve, and in general, the language, platform, and community are moving forward :)
+
+During lunches and while most people were in sessions, we had quite a few conversations with Zend employees — and even managed to impress some of the ZendStudio developers with our technologies. In turn, we were interested in hearing about how they are developing the Eclipse platform and helping coordinate the efforts of the Eclipse Foundation. After all, JetBrains is a relatively small company :) It was interesting from an engineering perspective to listen to their work on the language core and automatic profiling (especially from the point of view of a java-web-developer with significant experience).
+
+What's new in this build
+Inspired by conversations with users at ZendCon, we focused on optimization. We used heavyweights like ShugarCRM and Magento as ""stress tests"" (we wanted to try Bitrix as well but could not find a version with open source code). The very first profiling sessions showed that type inference produced too much ""garbage"" in memory and could lead to looping (and freezing) — these problems are now fixed. I want to immediately say that this is just the initial optimization, and we plan to seriously work on this further. *Very* much looking forward to feedback from anyone who upgraded. If you have specific problems — write in any way. I personally handle all the feedback.
+
+New features:
+
+- Improved PHPDOC generation
+- Navigation/search for using global variables
+- Recognition of class members based on name in cases where type inference is not possible
+- SFTP support
+- Autocompletion after the new keyword
+- Namespaces are displayed in the file structure tree
+- Quickfix (Alt-Enter) for defining unknown variables with var
+
+Lots of bug fixes, details in the blog and tracker
+
+Unfortunately, there are known issues:
+The most serious — degradation: multi-line literals in this build are incorrectly highlighted as containing an error WI-494
+Multiple declarations namespace XXX; (with "";"") in one file will be mistakenly recognized as nested WI-497
+Variable renaming removes the $ sign from the name WI-500
+
+We will try to release an update as soon as possible. Expect bug fixes, optimizations, and of course new features :)
+
+A few words about non-obvious WI functionalities
+The release is approaching, and we started gathering all the information about WebIDE features in one place. Even if you are already familiar with the editor, I recommend at least glancing through the list. Here I will talk about a couple of very useful but not entirely obvious functionalities. So, if your project uses PHP to generate XML, JS, CSS, SQL, or any other language supported by WebIDE, you can work comfortably using the following functions:
+
+""External"" language for PHP
+For each file or folder, you can set an ""external"" language relative to PHP instead of the default HTML through Settings|Template Data Languages. This setting is remembered in the project file.
+
+""Internal"" language for string literals in PHP
+Inside a literal string, press Alt-Enter and select ""Inject Language,"" then choose the required language. This is not remembered yet. In the future, you will be able to specify that *for example* the first string parameter of the query() function is SQL (and select the dialect).
+
+For both cases, full language support will be enabled — including completion and refactoring. Using these features, you can get full support for any language combination %)
+
+On this note, I conclude and await any questions and suggestions :)"
+Award internet seo web world web awards design copywriting music popularity wwa programming promotion achievements advertising show btl awards develop awards victory Website design Wap PDA websites Flash websites Animation Presentations Interfaces Flash Flex programming PR management,"Since ancient times, people have competed for the title of the best in a particular field, and both organizers and participants have always been interested in this. In general, there are only a few fundamental competitions that set the tone for others, less large-scale ones, and repeat the principles of the basic ones. In every branch, in every activity, in every occupation, there will be that person or team that does their job better than the rest. At this stage, Internet awards are a kind of competition where it is determined who has better thought out the combination of design and ease of use, informativeness, and, of course, relevance.
+
+The World Web Awards, even at the development stage, have shown that they are unique and large-scale like never before. An award that covers any activity on the Internet, whether it's design, copywriting, SEO promotion, app development, or programming. An award where your name can become so renowned that even people far from the Internet and your activity will speak of it as a standard of quality in the industry. The uniqueness of the award lies in everything, from the scale and coverage of people's activities to the awarding, which will be conducted as a show program, with television broadcasts and radio rotation. Naturally, the winners are awaited by great fame and success in their field; a recent ordinary person who completed several orders a day, took on any job, after winning can become popular and in demand, and can already refuse inconvenient offers themselves.
+
+The main motivation for participating in the World Web Awards, of course, will be to increase the popularity of your name, which simultaneously means an increase in your profit. It can be said that popularity is the fundamental factor for success in online activities. Even if you simply participate in this unique, first Internet award of its kind and scale, you can be sure that the visit rate of your project will increase significantly."
+Concepts Asus Bookshelf PC MADE in China Prime Gaming Laptop Portable PC Theater Paper Laptop ARM Tablet HP LiM B-membrane Canvas Philco PC Horizon MacBook Touch Pocket Yoga Zafiro MAINGEAR HP Tablet and Docking Concept Cuppa Bookshelf PC,"On one hand, concepts are an amazing thing, but on the other, they're a disappointment. They are great because they give us an idea of the future and push their industry towards innovation and unconventional solutions, but we can't acquire them right now, which is frustrating. The only thing we can do is put our money in the bank and wait for them to come out.
+
+Asus Bookshelf PC
+Asus Bookshelf is a computer consisting of interchangeable modules that allow for upgrading/downgrading simply by replacing or adding the necessary module.
+
+MADE in China
+MADE in China by John Leung, winner of the Next-Gen PC Design Competition, represents a traditional Eastern design.
+
+Prime Gaming Laptop
+Prime Gaming Laptop by Kyle Cherry solves the problem of laptop size constraints and the portability of a powerful gaming computer.
+
+Portable PC Theater
+Korean designer Jinwoo Han created the concept of the Portable PC Theater with a built-in projector for various entertainment events.
+
+Paper Laptop
+Paper Laptop by Je Sung Park presents an eco-friendly computer concept made from recycled paper.
+
+ARM Tablet
+ARM Tablet by Sébastien Maleville is an unusual ""tablet"" that allows you to detach the keyboard from the monitor in desktop mode.
+
+HP LiM
+HP LiM (Less is More) by Jeffrey S. Engelhardt features a transparent 19' touch screen and a virtual touchpad with a wireless keyboard.
+
+B-membrane
+B-membrane is a UFO-like computer with a projected keyboard and a projector as a monitor.
+
+Canvas
+The Canvas concept by Kyle Cherry, equipped with built-in digital art devices, is intended for designers and artists.
+
+Philco PC
+While most computer concepts are directed towards the future, Dave Schultze looks in the opposite direction. Here is his concept, Philco PC.
+
+Horizon
+The Horizon desktop computer concept by Japanese designer Mac Funamizu features an OLED monitor that can expand and retract.
+
+MacBook Touch
+MacBook Touch combines the touch interface of the iPhone/iPod Touch with the design of popular Apple laptops.
+
+Pocket Yoga
+Lenovo Pocket Yoga lives up to its name, easily fitting into the back pocket of pants.
+
+Zafiro
+Zafiro is a transparent glass monitor that uses hand and body movements for control (like in ""Minority Report"").
+
+MAINGEAR
+The MAINGEAR concept by Nuno Teixeira is a powerful gaming computer with improved cooling achieved through the device's unusual shape.
+
+HP Tablet and Docking Concept
+The HP Tablet and Docking Concept represents a convenient way to place your ""tablet"" on your desk.
+
+Cuppa
+The primary purpose of Cuppa is social media work. The concept includes an RFID sensor, an unusual display, and a keyboard with an updated layout.
+
+Bookshelf PC
+Sunho Son and Scott Shim created the Bookshelf PC concept, which is a beautiful and compact multimedia entertainment center with interchangeable modules."
